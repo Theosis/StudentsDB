@@ -1,0 +1,13 @@
+use mc;
+insert into MajrCour (MajrId, CourId) values (1, 4);
+insert into MajrCour (MajrId, CourId) values (1, 1);
+insert into MajrCour (MajrId, CourId) values (2, 4);
+insert into MajrCour (MajrId, CourId) values (3, 6);
+insert into MajrCour (MajrId, CourId) values (4, 5);
+insert into MajrCour (MajrId, CourId) values (4, 4);
+insert into MajrCour (MajrId, CourId) values (4, 2);
+insert into MajrCour (MajrId, CourId) values (4, 1);
+insert into MajrCour (MajrId, CourId) values (4, 3);
+insert into MajrCour (MajrId, CourId) values (5, 7);
+insert into MajrCour (MajrId, CourId) values (6, 8);
+insert into MajrCour (MajrId, CourId) values (7, 9);
